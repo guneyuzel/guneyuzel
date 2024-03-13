@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guney</h1>
-<h3 align="center">Aspiring Blockchain Developer Specializing in Solana</h3>
-
-- 🌱 I’m currently learning development on **Solana**
+<h3 align="center">Full-Stack Developer / Web3 Developer Specializing in Solana</h3>
 
 - 📫 How to reach me **devtex16@gmail.com**
 
