@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guney</h1>
 <h3 align="center">Full-Stack Developer / Web3 Developer Specializing in Solana</h3>
 
-- 🔭 Currently, I am actively contributing to the Picassol
-- 🌱 I am dedicated to enhancing my expertise in developing on Solana.
+- 🔭 Currently, I am actively contributing to the Solana ecosystem
+- 🌱 I am dedicated to enhancing my expertise in developing.
 - 📫 How to reach me **devtex16@gmail.com**
 
 <p align="left">
